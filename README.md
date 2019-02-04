@@ -1,4 +1,5 @@
 # README
+[Tutorial onebitcode Polimorfismo no Ruby On Rails: Aprenda em 10 minutos](https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
